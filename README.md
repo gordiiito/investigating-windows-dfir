@@ -4,26 +4,6 @@ This repository contains a host-based forensic investigation of a compromised Wi
 
 The full report is located in the report folder. Screenshots and supporting evidence used in the investigation are stored under evidence/screenshots.
 
-Repository Structure
-report/
-    Investigating_Windows_Report.pdf
-
-evidence/
-    screenshots/
-        01_systeminfo.png
-        02_getlocaluser.png
-        03_John_last_login.png
-        04_registry_updatesvc.png
-        05_admin_group.png
-        06_scheduled_task.png
-        07_task_actions.png
-        08_jenny_user.png
-        09_compromise_date.png
-        10_mimikatz.png
-        11_hostsfile_c2ip.png
-        12_webshell_jsp.png
-        13_firewall_rule.png
-
 Summary
 
 The investigation identified:
